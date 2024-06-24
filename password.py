@@ -1,15 +1,3 @@
-################################################################################
-#
-# Program: Random Password Generator
-# 
-# Description: Example of generating a random password in Python.
-#
-# YouTube Lesson: https://www.youtube.com/watch?v=fsjXq2XURTY 
-#
-# Author: Kevin Browne @ https://portfoliocourses.com
-#
-################################################################################
-
 import random
 import string
 
